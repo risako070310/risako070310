@@ -1,6 +1,6 @@
 ## risako070310🧸💖
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risako070310&layout=compact&theme=dracula&card_width=400px&count_private=true&hide=javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risako070310&layout=compact&theme=dracula&card_width=300px&count_private=true&hide=javascript)
 ![Risako's GitHub stats](https://github-readme-stats.vercel.app/api?username=risako070310&count_private=true&show_icons=true&theme=dracula&line_height=20px)
 
 <!--
