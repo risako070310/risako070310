@@ -1,5 +1,9 @@
 ## risako070310🧸💖
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risako070310)](https://github.com/risako070310/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risako070310)](https://github.com/risako070310/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risako070310&count_private=true&show_icons=true&theme=onedark)
+)](https://github.com/risako070310/github-readme-stats)
 
 
 <!--
