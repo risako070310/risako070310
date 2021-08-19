@@ -1,5 +1,5 @@
 ## risako070310🧸💖
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risako070310)](https://github.com/risako070310/github-readme-stats)
 
 
 <!--
